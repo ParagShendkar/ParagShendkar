@@ -39,7 +39,6 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlGVLcvCPJKnHzRgvMrVLPbMHfnXkJWkZHrwDPMKmXqWWjjPqNgVqlfBmQxcVZplvVLlhg)
 
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-shendkar-17452b1b8/)
 ## Support my work
 
 Your support is greatly appreciated! Feel free to reach out, and let's have a chat! Thanks for stopping by and exploring my GitHub profile. Happy coding! 🚀
